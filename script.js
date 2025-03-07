@@ -2,7 +2,7 @@ let url = 'https://weatherapi-com.p.rapidapi.com/current.json?q=delhi';
 const options = {
 	method: 'GET',
 	headers: {
-		'x-rapidapi-key': 'a5e1e41edamsh97f6fa08c8dee71p1e3d33jsnecec3d9ff597',
+		'x-rapidapi-key': 'your-key-env',
 		'x-rapidapi-host': 'weatherapi-com.p.rapidapi.com'
 	}
 };
